@@ -1,0 +1,26 @@
+packages.txt
+Created Wed Aug 30 10:25:28 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Debian jessie CIFS relates packages
+
+
+cifs-utils - Common Internet File System utilities
+
+python-samba - Python bindings for Samba
+
+samba - SMB/CIFS file, print, and login server for Unix
+samba-common - common files used by both the Samba server and client
+samba-common-bin - Samba common files used by both the server and the client
+samba-dbg - Samba debugging symbols
+samba-dev - tools for extending Samba
+samba-doc - Samba documentation
+samba-dsdb-modules - Samba Directory Services Database
+samba-libs - Samba core libraries
+samba-testsuite - test suite from Samba
+samba-vfs-modules - Samba Virtual FileSystem plugins
+
+smbclient - command-line SMB/CIFS clients for Unix
+
+smb4k - Samba (SMB) share advanced browser
