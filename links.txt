@@ -10,3 +10,13 @@ Links
 =====
 Common Internet File System
 https://technet.microsoft.com/en-us/library/cc939973.aspx
+
+LinuxCIFS utils
+The in-kernel CIFS filesystem relies on a set of user-space tools.
+That package of tools is called cifs-utils. Although not really part
+of Samba proper, these tools were originally part of the Samba package.
+For several reasons, shipping these tools as part of Samba was
+problematic and it was deemed better to split them off into their own
+package.
+https://wiki.samba.org/index.php/LinuxCIFS_utils
+
