@@ -1,0 +1,18 @@
+README
+Created Wed Aug 30 10:22:59 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+cifs.txt
+  The Common Internet File System (CIFS) is the standard way that computer
+  users share files across corporate intranets and the Internet.  An
+  enhanced version of the Microsoft open, cross-platform Server Message
+  Block (SMB) protocol, CIFS is a native file-sharing protocol in Windows
+  2000.
+  --Common Internet File System
+    https://technet.microsoft.com/en-us/library/cc939973.aspx
+
+links.txt
+  CIFS related links
