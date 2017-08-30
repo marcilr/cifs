@@ -1,0 +1,12 @@
+links.txt
+Created Wed Aug 30 10:23:32 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+CIFS related links
+
+
+Links
+=====
+Common Internet File System
+https://technet.microsoft.com/en-us/library/cc939973.aspx
