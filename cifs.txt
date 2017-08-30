@@ -1,0 +1,48 @@
+cifs.txt
+Created Wed Aug 30 10:17:49 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Common Internet File System (CIFS)
+
+
+The Common Internet File System (CIFS) is the standard way that computer
+users share files across corporate intranets and the Internet.  An
+enhanced version of the Microsoft open, cross-platform Server Message
+Block (SMB) protocol, CIFS is a native file-sharing protocol in Windows 2000.
+
+CIFS defines a series of commands used to pass information between networked
+computers.  The redirector packages requests meant for remote computers in a
+CIFS structure.  CIFS can be sent over a network to remote devices.  The
+redirector also uses CIFS to make requests to the protocol stack of the local
+computer.  The CIFS messages can be broadly classified as follows:
+
+o Connection establishment messages consist of commands that start and end
+  a redirector connection to a shared resource at the server.
+
+o Namespace and File Manipulation messages are used by the redirector to
+  gain access to files at the server and to read and write them.
+
+o Printer messages are used by the redirector to send data to a print queue
+  at a server and to get status information about the print queue.
+
+o Miscellaneous messages are used by the redirector to write to mailslots
+  and named pipes.
+
+--microsoft.com/
+
+
+
+Links
+=====
+Common Internet File System
+https://technet.microsoft.com/en-us/library/cc939973.aspx
+
+Server Message Block
+From Wikipedia, the free encyclopedia
+In computer networking, Server Message Block (SMB), one version of which
+was also known as Common Internet File System operates as an
+application-layer network protocol[3] mainly used for providing shared
+access to files, printers, and serial ports and miscellaneous communications
+between nodes on a network.
+https://en.wikipedia.org/wiki/Server_Message_Block
