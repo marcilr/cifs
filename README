@@ -16,3 +16,7 @@ cifs.txt
 
 links.txt
   CIFS related links
+
+packages.txt
+  Debian jessie CIFS relates packages
+
